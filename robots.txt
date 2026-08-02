@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-9tic5r.kujang138bos.online/sitemap.xml
